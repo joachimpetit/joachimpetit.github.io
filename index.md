@@ -5,15 +5,17 @@
 layout: home
 ---
 
-![Portrait of me](img/portrait.jpg) | __Joachim Petit__ <br><br> I am a PhD student at the University of Basel, supervised by [Pierre Le Boudec][Pierre]. <br><br>  My field of research is Number Theory. <br><br> __Contact__: joachim.petit ■ unibas.ch
+<img src="assets/portrait.jpg" alt="Portrait of me" width="500"/> | __Joachim Petit__ <br><br> I am a PhD student at the University of Basel, supervised by [Pierre Le Boudec][Pierre]. <br><br>  My field of research is Number Theory. <br><br> __Contact__: joachim.petit ■ unibas.ch
 
-<h2>Preprints</h2>
 
-_Average rank in families of quadratic twists with a rational point of almost minimal height_ <br> in preparation | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+| PREPRINTS |
+|-----------|
+| _Average rank in families of quadratic twists with a rational point of almost minimal height_ <br> in preparation |
 
-<h2>Publications</h2>
 
- _On the number of quadratic twists with a rational point of almost minimal height_ <br> Int. Math. Res. Not. IMRN, to appear | [arXiv][ART01-arXiv]
+| PUBLICATIONS |   |
+|--------------|:-:|
+|  _On the number of quadratic twists with a rational point of almost minimal height_ <br> Int. Math. Res. Not. IMRN, to appear | [arXiv][ART01-arXiv] |
 
 
 [Pierre]: https://numbertheory.dmi.unibas.ch/leboudec/
