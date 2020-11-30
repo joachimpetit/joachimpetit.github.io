@@ -5,4 +5,17 @@
 $content-width: 850px;
 $on-laptop: 	850px;
 
+.arxiv {
+	font-family: 'Lucida Grande';
+	font-weight: bold;
+	font-size: large;
+	color: #b41414;
+}
+
+.art {
+	display: block;
+	width: 650px;
+	font-style: italic;
+}
+
 @import "minima";
