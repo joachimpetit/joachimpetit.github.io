@@ -10,14 +10,15 @@ layout: home
 
 | PREPRINTS |   |
 |-----------|:-:|
-| <span class="art">Average rank of quadratic twists with a rational point of almost minimal height</span> | [<span class="arxiv">arXiv</span>][ART02-arXiv] |
+| <span class="art">Average rank of quadratic twists with a rational point of almost minimal height</span> submitted for publication | [<span class="arxiv">arXiv</span>][ART02-arXiv] |
 
 | PUBLICATIONS |   |
 |--------------|:-:|
-|  <span class="art">On the number of quadratic twists with a rational point of almost minimal height</span> Int. Math. Res. Not. IMRN, to appear | [<span class="arxiv">arXiv</span>][ART01-arXiv] |
+|  <span class="art">[On the number of quadratic twists with a rational point of almost minimal height][ART01-DOI]</span> Int. Math. Res. Not. IMRN, to appear | [<span class="arxiv">arXiv</span>][ART01-arXiv] |
 
 
 [Pierre]: https://numbertheory.dmi.unibas.ch/leboudec/
 
 [ART01-arXiv]: https://arxiv.org/abs/2004.02500
+[ART01-DOI]: https://doi.org/10.1093/imrn/rnaa326
 [ART02-arXiv]: https://arxiv.org/abs/2011.13195
