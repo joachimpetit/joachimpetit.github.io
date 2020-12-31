@@ -12,10 +12,10 @@ $on-laptop: 	850px;
 	color: #b41414;
 }
 
-.art {
+.center {
 	display: block;
-	width: 600px;
-	font-style: italic;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 @import "minima";
