@@ -13,7 +13,7 @@ layout: home
 	<tr>
 		<td> Average rank of quadratic twists with a rational point of almost minimal height
 			<br> submitted for publication </td>
-		<td><a href="https://arxiv.org/abs/2011.13195"><img src="assets/arxiv.png" alt="arXiv" class="center" /></a></td>
+		<td><a href="https://arxiv.org/abs/2011.13195"><img src="assets/arxiv-logo-1.png" alt="arXiv" class="center" /></a></td>
 	</tr>
 </table>
 
@@ -22,7 +22,7 @@ layout: home
 	<tr>
 		<td><a href="https://doi.org/10.1093/imrn/rnaa326"> On the number of quadratic twists with a rational point of almost minimal height </a>
 			<br> Int. Math. Res. Not. IMRN, to appear </td>
-		<td><a href="https://arxiv.org/abs/2004.02500"><img src="assets/arxiv.png" alt="arXiv" class="center" /></a></td>
+		<td><a href="https://arxiv.org/abs/2004.02500"><img src="assets/arxiv-logo-1.png" alt="arXiv" class="center" /></a></td>
 	</tr>
 </table>
 
