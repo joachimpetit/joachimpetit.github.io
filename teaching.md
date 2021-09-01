@@ -6,6 +6,7 @@ permalink: /teaching/
 
 I have assisted for the following courses:
 
+* SS 2021 - Complex Analysis and Number Theory
 * FS 2020 - Real Analysis
 * SS 2020 - Introduction to Numerical Analysis
 * FS 2019 - Analysis I
