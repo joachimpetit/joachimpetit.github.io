@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img src="assets/portrait.jpg" alt="Portrait of me" width="500"/> | __Joachim Petit__ <br><br> I am a PhD student at the University of Basel, supervised by [Pierre Le Boudec][Pierre]. <br><br>  My field of research is Number Theory. <br><br> __Contact__: joachim.petit ■ unibas.ch
+<img src="assets/portrait.jpg" alt="Portrait of me" width="600"/> | __Joachim Petit__ <br><br> I am a [SNSF][SNSF] postdoctoral fellow at the University of Toronto, working with [Arul Shankar][Arul]. <br><br> I completed my PhD in July 2021 at the University of Basel, under the direction of [Pierre Le Boudec][Pierre]. <br><br>  My field of research is Number Theory. <br><br> __Contact__: joachim.petit ■ utoronto.ca
 
 
 <table style="width:100%">
@@ -27,7 +27,9 @@ layout: home
 </table>
 
 
-[Pierre]: https://numbertheory.dmi.unibas.ch/leboudec/
+[SNSF]: https://snf.ch/en
+[Arul]: https://www.math.toronto.edu/ashankar/
+[Pierre]: https://pierreleboudec.github.io/
 
 [ART01-arXiv]: https://arxiv.org/abs/2004.02500
 [ART01-DOI]: https://doi.org/10.1093/imrn/rnaa326
