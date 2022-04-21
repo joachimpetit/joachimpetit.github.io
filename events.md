@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Events
+title: events
 permalink: /events/
 ---
 

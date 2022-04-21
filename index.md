@@ -5,26 +5,33 @@
 layout: home
 ---
 
-<img src="assets/portrait.jpg" alt="Portrait of me" width="600"/> | __Joachim Petit__ <br><br> I am a [SNSF][SNSF] postdoctoral fellow at the University of Toronto, working with [Arul Shankar][Arul]. <br><br> I completed my PhD in July 2021 at the University of Basel, under the direction of [Pierre Le Boudec][Pierre]. <br><br>  My field of research is Number Theory. <br><br> __Contact__: joachim.petit ■ utoronto.ca
+<img src="assets/portrait.jpg" alt="Portrait of me" width="300"/> | __Joachim Petit__ <br><br> I am a [SNSF][SNSF] postdoctoral fellow at the University of Toronto, working with [Arul Shankar][Arul]. <br><br> I completed my PhD in July 2021 at the University of Basel, under the direction of [Pierre Le Boudec][Pierre]. <br><br>  My field of research is Number Theory. <br><br> __Contact__: joachim.petit ■ utoronto.ca
 
 
 <table style="width:100%">
-	<tr><th width="87%">PREPRINTS</th><th></th></tr>
 	<tr>
-		<td> Average rank of quadratic twists with a rational point of almost minimal height
-			<br> submitted for publication </td>
-		<td><a href="https://arxiv.org/abs/2011.13195"><img src="assets/arxiv-logo-1.png" alt="arXiv" class="center" /></a></td>
+		<th>#</th> <th width="78%">PUBLICATIONS</th> <th width="8%" style="text-align:center">journal</th> <th width="10%" style="text-align:center" >arXiv</th>
+	</tr>
+	<tr>
+		<td> 2 </td>
+		<td> 
+			<b>Average rank of quadratic twists with a rational point of almost minimal height</b> 
+			<br> Bulletin of the London Mathematical Society, <i>to appear</i>
+		</td>
+		<td> <a href="https://doi.org/10.1112/blms.12635"><img src="assets/article-line.png" alt="DOI" class="center" /></a> </td>
+		<td> <a href="https://arxiv.org/abs/2011.13195"><img src="assets/arxiv-logo-1.png" alt="arXiv" class="center" /></a> </td>
+	</tr>
+	<tr>
+		<td> 1 </td>
+		<td> 
+			<b>On the number of quadratic twists with a rational point of almost minimal height</b> 
+			<br> International Mathematics Research Notices, <i>to appear</i>
+		</td>
+		<td> <a href="https://doi.org/10.1093/imrn/rnaa326"><img src="assets/article-line.png" alt="DOI" class="center" /></a> </td>
+		<td> <a href="https://arxiv.org/abs/2004.02500"><img src="assets/arxiv-logo-1.png" alt="arXiv" class="center" /></a> </td>
 	</tr>
 </table>
 
-<table style="width:100%">
-	<tr><th width="87%">PUBLICATIONS</th><th></th></tr>
-	<tr>
-		<td><a href="https://doi.org/10.1093/imrn/rnaa326"> On the number of quadratic twists with a rational point of almost minimal height </a>
-			<br> Int. Math. Res. Not. IMRN, to appear </td>
-		<td><a href="https://arxiv.org/abs/2004.02500"><img src="assets/arxiv-logo-1.png" alt="arXiv" class="center" /></a></td>
-	</tr>
-</table>
 
 
 [SNSF]: https://snf.ch/en
@@ -34,3 +41,4 @@ layout: home
 [ART01-arXiv]: https://arxiv.org/abs/2004.02500
 [ART01-DOI]: https://doi.org/10.1093/imrn/rnaa326
 [ART02-arXiv]: https://arxiv.org/abs/2011.13195
+[ART02-DOI]: http://doi.org/10.1112/blms.12635

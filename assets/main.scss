@@ -2,8 +2,8 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-$content-width: 850px;
-$on-laptop: 	850px;
+$content-width: 1000px;
+$on-laptop: 	1000px;
 
 .arxiv {
 	font-family: 'Lucida Grande';
@@ -14,8 +14,8 @@ $on-laptop: 	850px;
 
 .center {
 	display: block;
-  margin-left: auto;
-  margin-right: auto;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 @import "minima";
