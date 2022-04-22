@@ -25,7 +25,7 @@ layout: home
 		<td> 1 </td>
 		<td> 
 			<b>On the number of quadratic twists with a rational point of almost minimal height</b> 
-			<br> International Mathematics Research Notices, <i>to appear</i>
+			<br> International Mathematics Research Notices (2022), no. 9, 7056-7099
 		</td>
 		<td> <a href="https://doi.org/10.1093/imrn/rnaa326"><img src="assets/article-line.png" alt="DOI" class="center" /></a> </td>
 		<td> <a href="https://arxiv.org/abs/2004.02500"><img src="assets/arxiv-logo-1.png" alt="arXiv" class="center" /></a> </td>
