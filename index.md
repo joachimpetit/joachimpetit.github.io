@@ -16,7 +16,7 @@ layout: home
 		<td> 2 </td>
 		<td> 
 			<b>Average rank of quadratic twists with a rational point of almost minimal height</b> 
-			<br> Bulletin of the London Mathematical Society, <i>to appear</i>
+			<br> Bulletin of the London Mathematical Society 54 (2022), no. 4, 1375-1395
 		</td>
 		<td> <a href="https://doi.org/10.1112/blms.12635"><img src="assets/article-line.png" alt="DOI" class="center" /></a> </td>
 		<td> <a href="https://arxiv.org/abs/2011.13195"><img src="assets/arxiv-logo-1.png" alt="arXiv" class="center" /></a> </td>
